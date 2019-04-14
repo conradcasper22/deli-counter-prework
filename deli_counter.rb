@@ -7,5 +7,5 @@ def line(katz_deli)
   else
     katz_deli.each_with_index {|person, index| other_deli.push("#{index}. #{person} ")}
   end
- other_deli.join()
+puts other_deli.join()
 end
