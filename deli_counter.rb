@@ -9,4 +9,5 @@ def line(katz_deli)
       |person, index| other_deli.push("#{index}. #{person}")
     }
   end
+  other_deli.join()
 end
