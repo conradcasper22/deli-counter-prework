@@ -11,3 +11,5 @@ def line(katz_deli)
   end
 other_deli.join()
 end
+
+line(katz_deli)
