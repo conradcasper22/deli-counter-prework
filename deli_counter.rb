@@ -12,4 +12,4 @@ def line(katz_deli)
 other_deli.join()
 end
 
-line
+line(hello)
