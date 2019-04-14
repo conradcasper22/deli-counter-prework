@@ -10,5 +10,5 @@ def line(katz_deli)
     katz_deli.each_with_index {|person, index| other_deli.push("#{index}. #{person} ")}
   end
 other_deli.join()
-binding.pry
+
 end
