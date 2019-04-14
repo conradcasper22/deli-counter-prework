@@ -1,5 +1,5 @@
 # Write your code here.
-Require 
+require 'pry'
 
 def line(katz_deli)
   other_deli = ["The line is currently: "]
