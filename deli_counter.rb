@@ -9,5 +9,5 @@ def line(katz_deli)
       |person, index| other_deli.push("#{index}. #{person}")
     }
   end
- puts other_deli.join()
+ puts other_deli.join
 end
